@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class Main {
+class main {
   static class ATM {
     private float Balance;
    private int pin ;
